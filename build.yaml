@@ -3,7 +3,7 @@ include:
   - board: cosmos_lemon_wireless
     shield: rickballv4_left
   - board: cosmos_lemon_wireless
-    shield: rickballv4_right vik_ssd1306
+    shield: rickballv4_right vik_display_i2c
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
   - board: cosmos_lemon_wireless
