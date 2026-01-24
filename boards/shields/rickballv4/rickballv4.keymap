@@ -5,9 +5,6 @@
 #include <behaviors/mouse_move.dtsi>
 #include <behaviors/mouse_scroll.dtsi>
 
-// Consumer control keys (volume, media, etc.)
-#include <dt-bindings/zmk/consumer.h>
-
 / {
        behaviors {
         cmqus: comma_question {
