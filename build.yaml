@@ -1,8 +1,8 @@
 ---
 include:
   - board: cosmos_lemon_wireless
-    shield: rickballv6_left
+    shield: rickballv6_left vik_dsiuplay_i2c
   - board: cosmos_lemon_wireless
     shield: rickballv6_right vik_pmw3610
-    snippet: zmk-usb-logging;studio-rpc-usb-uart
+    snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
