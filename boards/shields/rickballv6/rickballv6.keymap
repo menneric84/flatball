@@ -94,6 +94,7 @@
                 <&macro_param_1to2>,
                 <&as_ht MACRO_PLACEHOLDER MACRO_PLACEHOLDER>;
         };
+        };
 
     keymap {
         compatible = "zmk,keymap";
