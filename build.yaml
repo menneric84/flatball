@@ -1,7 +1,7 @@
 ---
 include:
   - board: cosmos_lemon_wireless
-    shield: rickballv6_left vik_dsiuplay_i2c
+    shield: rickballv6_left vik_display_i2c
   - board: cosmos_lemon_wireless
     shield: rickballv6_right vik_pmw3610
     snippet: studio-rpc-usb-uart
