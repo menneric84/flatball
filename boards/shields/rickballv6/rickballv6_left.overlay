@@ -1,17 +1,13 @@
-#include "rickballv4.dtsi"
+#include "rickballv6.dtsi"
 
 / {
     bootloader_key: bootloader_key {
         compatible = "zmk,boot-magic-key";
-        key-position = <43>;
+        key-position = <0>;
         jump-to-bootloader;
     };
 };
 
-&default_transform {
-    col-offset = <7>;
-};
-
-&right_encoder {
+&left_encoder {
     status = "okay";
 };

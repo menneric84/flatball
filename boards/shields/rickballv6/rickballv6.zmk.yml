@@ -1,6 +1,6 @@
 file_format: "1"
-id: rickballv4
-name: rickballv4
+id: rickballv6
+name: rickballv6
 type: shield
 url: https://github.com/rianadon/Cosmos-Keyboards
 features:
@@ -9,5 +9,5 @@ features:
   - encoder
   - studio
 siblings:
-  - rickballv4_left
-  - rickballv4_right
+  - rickballv6_left
+  - rickballv6_right
