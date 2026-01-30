@@ -1,6 +1,0 @@
-
-config SHIELD_rickballv6_LEFT
-    def_bool $(shields_list_contains,rickballv6_left)
-
-config SHIELD_rickballv6_RIGHT
-    def_bool $(shields_list_contains,rickballv6_right)
